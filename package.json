@@ -1,0 +1,19 @@
+{
+  "name": "cloudupserver",
+  "version": "0.1.0",
+  "description": "This is a server for cloud up",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/santi280403/CloudUpServer.git"
+  },
+  "author": "Santiago Ruiz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/santi280403/CloudUpServer/issues"
+  },
+  "homepage": "https://github.com/santi280403/CloudUpServer#readme"
+}
